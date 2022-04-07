@@ -1,2 +1,2 @@
-# sleet-emacs
+# Emacs
 GNU Emacs
